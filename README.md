@@ -1,5 +1,5 @@
 # Jakes-Job-Board
-A list of job/internships posting sites.
+A list of job/internship posting sites.
 
 - TikTok: https://lifeattiktok.com/search
 - Netlfix: https://explore.jobs.netflix.net/careers
