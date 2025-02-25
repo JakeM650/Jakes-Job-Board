@@ -15,10 +15,7 @@ A list of internship posting sites.
 - Disney: https://jobs.disneycareers.com/search-jobs 
 - Apple: https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN
 - GitHub: https://www.github.careers/careers-home/jobs?keywords=Intern
-
-### Smaller Tech
-- Capcom: https://jobs.jobvite.com/capcomusa
-
+  
 ### Consumer Retail 
 - Gap: https://www.gapinc.com/en-us/careers/student-and-recent-grads/summer-internships
 - Sephora: https://www.inside-sephora.com/en/usa/sephora-internships
@@ -27,3 +24,7 @@ A list of internship posting sites.
 ### Muni
 - SFMOMA: https://jobs.lever.co/sfmoma
 - Port of Oakland: https://www.portofoakland.com/internships/
+
+### Smaller Tech
+- Capcom: https://jobs.jobvite.com/capcomusa
+
