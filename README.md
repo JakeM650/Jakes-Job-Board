@@ -1,11 +1,12 @@
-# Jakes-Job-Board
-A list of job/internship posting sites.
+# Jake's Job Board
+A list of internship posting sites.
 
 ### Big Tech
 - TikTok: https://lifeattiktok.com/search
 - Netlfix: https://explore.jobs.netflix.net/careers
 - Disney: https://jobs.disneycareers.com/search-jobs 
 - Apple: https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN
+- GitHub: https://www.github.careers/careers-home/jobs?keywords=Intern
 
 ### Smaller Tech
 - Capcom: https://jobs.jobvite.com/capcomusa
